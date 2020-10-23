@@ -1,7 +1,8 @@
 # 运维平台后端 
 
 **提供cmdb,容器中心,部署监控,运维文档等功能**
-
+## 设计
+https://note.youdao.com/web/#/file/recent/markdown/WEBd7168340fa1170e0e4f8851e037331ea/ 
 ## 配置
 vim /etc/profile  
 export GO111MODULE=on  
