@@ -12,6 +12,7 @@ export GOPROXY
 source /etc/profile  
 
 ## 运行
+make && make install  
 cd /opt/ops-backend/  
 ./ops-backend  
 
